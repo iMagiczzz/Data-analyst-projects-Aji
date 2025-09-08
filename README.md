@@ -3,7 +3,7 @@
 Hi! I’m Aji Sinathrya Prabaswara, an aspiring Data Analyst passionate about turning data into insights.
 
 📌 **Contacts:**  
-- [LinkedIn](www.linkedin.com/in/aji-sinathrya-prabaswara-57115b336)  
+- [LinkedIn](https://www.linkedin.com/in/aji-sinathrya-prabaswara-57115b336)  
 - [Instagram](https://www.instagram.com/imagiczzz/profilecard/?igsh=NDZzNGJzYWJhbXQ3)
 - [Gmail](mailto:ajisinathrya5@gmail.com)
   
