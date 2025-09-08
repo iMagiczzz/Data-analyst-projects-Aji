@@ -1,16 +1,15 @@
-# # 📊 Data Analysis Projects (SQL & Tableau)
+# 📊 Data Analysis Projects (SQL & Tableau)
 
 Hi! I’m Aji Sinathrya Prabaswara, an aspiring Data Analyst passionate about turning data into insights.
 
-📌 **Connect with me:**  
-- 💼 [LinkedIn]
-(www.linkedin.com/in/aji-sinathrya-prabaswara-57115b336)  
+📌 **Contacts:**  
+- 💼 [LinkedIn](www.linkedin.com/in/aji-sinathrya-prabaswara-57115b336)  
 - 📷 [Instagram](https://www.instagram.com/imagiczzz/profilecard/?igsh=NDZzNGJzYWJhbXQ3)    
 
 ## Here’s my project list so far:
 
 ### 📝 SQL Project: Awesome Chocolates Sales Analysis  
-**Link:** *(Dataset & Queries in this repo)*  
+**Link:** *a*  
 
 This solo project showcases my ability to solve real-world business problems using SQL.  
 I worked with a mock chocolate sales dataset, following practice problems from YouTube.  
