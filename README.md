@@ -1,4 +1,4 @@
-# 📊 Data Analysis Projects (SQL & Tableau)
+# 📊 Data Analysis Projects by Aji 
 
 Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Analyst projects!
 
@@ -9,11 +9,13 @@ Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Anal
   
 ## Here’s my project list so far:
 
-### 📝 SQL Project: Awesome Chocolates Sales Analysis  
-**Link:** *(https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/product-data.sql)*  
+### 📝 SQL Project: 
+["Awesome Chocolates Sales" Analysis](https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/product-data.sql) 
 
 
-### 📊 Tableau Dashboard: Awesome Chocolates Sales Visualization
-![Dashboard result](https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/Dashboard%201.png)
+### 📊 Tableau Dashboard: 
+**"Awesome Chocolates Sales"** Visualization result:
+
+![Awesome Chocolates Sales Visualization result](https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/Dashboard%201.png)
 
 **View on Tableau Public:** [Link](https://public.tableau.com/views/Book1_17549068666510/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
