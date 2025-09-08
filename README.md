@@ -1,1 +1,22 @@
-# Data-analyst-projects-Aji
+# # 📊 Data Analysis Projects (SQL & Tableau)
+
+Hi! I’m Aji Sinathrya Prabaswara, an aspiring Data Analyst passionate about turning data into insights.
+
+📌 **Connect with me:**  
+- 💼 [LinkedIn]
+(www.linkedin.com/in/aji-sinathrya-prabaswara-57115b336)  
+- 📷 [Instagram](https://www.instagram.com/imagiczzz/profilecard/?igsh=NDZzNGJzYWJhbXQ3)    
+
+## Here’s my project list so far:
+
+### 📝 SQL Project: Awesome Chocolates Sales Analysis  
+**Link:** *(Dataset & Queries in this repo)*  
+
+This solo project showcases my ability to solve real-world business problems using SQL.  
+I worked with a mock chocolate sales dataset, following practice problems from YouTube.  
+The dataset contains sales transactions with fields like product type, country, sales date, boxes, amount, salesperson, and customer count.
+
+### 📊 Tableau Dashboard: Awesome Chocolates Sales Visualization  
+**Link:** [View on Tableau Public](https://public.tableau.com/views/Book1_17549068666510/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+This dashboard presents a visual summary of chocolate sales performance, showing salesperson rankings, average boxes sold per product, monthly sales trends, sales by country, and the top ten products by revenue. It’s designed to give a quick yet comprehensive view of overall performance and highlight key patterns in the data.
