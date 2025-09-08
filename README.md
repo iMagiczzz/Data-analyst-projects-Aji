@@ -4,8 +4,9 @@ Hi! I’m Aji Sinathrya Prabaswara, an aspiring Data Analyst passionate about tu
 
 📌 **Contacts:**  
 - [LinkedIn](www.linkedin.com/in/aji-sinathrya-prabaswara-57115b336)  
-- [Instagram](https://www.instagram.com/imagiczzz/profilecard/?igsh=NDZzNGJzYWJhbXQ3)    
+- [Instagram](https://www.instagram.com/imagiczzz/profilecard/?igsh=NDZzNGJzYWJhbXQ3)
 - [Gmail](mailto:ajisinathrya5@gmail.com)
+  
 ## Here’s my project list so far:
 
 ### 📝 SQL Project: Awesome Chocolates Sales Analysis  
