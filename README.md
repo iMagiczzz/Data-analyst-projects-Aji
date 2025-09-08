@@ -11,7 +11,7 @@ Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Anal
 
 ### 📝 SQL Project: 
 ["Awesome Chocolates Sales" Analysis](https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/product-data.sql) 
-
+**Skills**: SQL (querying, joins, aggregation & grouping, date/time functions), data analysis & reporting.
 
 ### 📊 Tableau Dashboard: 
 **"Awesome Chocolates Sales"** Visualization result:
