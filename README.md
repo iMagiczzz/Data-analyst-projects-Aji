@@ -9,7 +9,7 @@ Hi! I’m Aji Sinathrya Prabaswara, an aspiring Data Analyst passionate about tu
 ## Here’s my project list so far:
 
 ### 📝 SQL Project: Awesome Chocolates Sales Analysis  
-**Link:** *a*  
+**Link:** *(https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/product-data.sql)*  
 
 This solo project showcases my ability to solve real-world business problems using SQL.  
 I worked with a mock chocolate sales dataset, following practice problems from YouTube.  
