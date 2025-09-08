@@ -15,7 +15,9 @@ This solo project showcases my ability to solve real-world business problems usi
 I worked with a mock chocolate sales dataset, following practice problems from YouTube.  
 The dataset contains sales transactions with fields like product type, country, sales date, boxes, amount, salesperson, and customer count.
 
-### 📊 Tableau Dashboard: Awesome Chocolates Sales Visualization  
+### 📊 Tableau Dashboard: Awesome Chocolates Sales Visualization
+![Dashboard result](https://imgur.com/o5AprUy)
+
 **Link:** [View on Tableau Public](https://public.tableau.com/views/Book1_17549068666510/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 This dashboard presents a visual summary of chocolate sales performance, showing salesperson rankings, average boxes sold per product, monthly sales trends, sales by country, and the top ten products by revenue. It’s designed to give a quick yet comprehensive view of overall performance and highlight key patterns in the data.
