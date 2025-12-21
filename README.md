@@ -14,7 +14,7 @@ Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Anal
 **Skills**: SQL (querying, joins, aggregation & grouping, date/time functions), data analysis & reporting.
 
 ### 📈 Key Findings:
-- Transactions with Amount > 2,000 often involved < 100 boxes, indicating high-value sales.
+- Transactions with Amount >2,000 often involved <100 boxes, indicating high-value sales.
 - In January 2022, sales activity varied significantly across salespersons.
 - Between Milk Bars and Eclairs, product performance differed depending on sales value vs box volume.
 - Shipments exceeding 1,000 boxes occurred multiple times each month, showing seasonal demand patterns.
@@ -22,10 +22,10 @@ Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Anal
 - Some salespersons made zero shipments in the first 7 days of January 2022.
 
 ### 💡 Business Insights:
-- Prioritize promotion of high-revenue products.
-- Review performance of inactive salespersons.
-- Prepare inventory ahead of high-volume shipment months.
-- Focus regional strategy on stronger markets like Australia.
+- Should prioritize promotion of high-revenue products.
+- Should review performance of inactive salespersons.
+- Should prepare inventory ahead of high-volume shipment months.
+- Should focus regional strategy on stronger markets like Australia.
 
 ### 📊 Tableau Dashboard: 
 **"Awesome Chocolates Sales"** Visualization result:
