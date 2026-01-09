@@ -36,4 +36,4 @@ Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Anal
 
 ## 📊 Google Sheets project:
 ["Global freelancers data"](https://docs.google.com/spreadsheets/d/1D6N4AkVe9p1678QWvNmP2jtkFlp4pbfwsmCeH6XVMcc/edit?usp=drivesdk)
-**Skills**: Cleaning and processing simple data using Google Sheets,creating reports using pivot tables to facilitate data analysis.
+**Skills**: Cleaning and processing simple data using Google Sheets, creating reports using pivot tables to facilitate data analysis.
