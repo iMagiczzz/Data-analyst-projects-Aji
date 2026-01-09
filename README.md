@@ -33,3 +33,7 @@ Hi! I’m Aji Sinathrya Prabaswara. Welcome to my GitHub repository of Data Anal
 ![Awesome Chocolates Sales Visualization result](https://github.com/iMagiczzz/Data-analyst-projects-Aji/blob/main/Dashboard%201.png)
 
 **View on Tableau Public:** [Link](https://public.tableau.com/views/Book1_17549068666510/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+## Google Sheets project:
+["Global freelancers data"](https://docs.google.com/spreadsheets/d/1D6N4AkVe9p1678QWvNmP2jtkFlp4pbfwsmCeH6XVMcc/edit?usp=drivesdk)
+**Skills**: Cleaning and processing simple data using Google Sheets,creating reports using pivot tables to facilitate data analysis.
